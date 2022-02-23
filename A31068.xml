@@ -1,0 +1,625 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The blazing star, or, A discourse of comets, their natures and effects in a letter from J.B. to T.C. concerning the late comet seen on Sunday, December the 11, 1664, at Ibbesley in Hantshire and since at London and Westminster and divers other places of this kingdom.</title>
+            <author>J. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 83 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31068</idno>
+            <idno type="STC">Wing B94</idno>
+            <idno type="STC">ESTC R5134</idno>
+            <idno type="EEBO-CITATION">13684151</idno>
+            <idno type="OCLC">ocm 13684151</idno>
+            <idno type="VID">101336</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101336)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 833:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The blazing star, or, A discourse of comets, their natures and effects in a letter from J.B. to T.C. concerning the late comet seen on Sunday, December the 11, 1664, at Ibbesley in Hantshire and since at London and Westminster and divers other places of this kingdom.</title>
+                  <author>J. B.</author>
+               </titleStmt>
+               <extent>[2], 48, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Speed ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1-2] at end.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Comets --  1664.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101336:1"/>
+            <pb facs="tcp:101336:1" rendition="simple:additions"/>
+            <p>The Blazing Star: OR, A DISCOURSE OF COMETS, Their Natures and Effects: In a LETTER from <hi>J. B</hi> to <hi>T. C.</hi> concern<g ref="char:EOLhyphen"/>ing the late Comet ſeen on Sunday <hi>De<g ref="char:EOLhyphen"/>cember</hi> the 11. 1664. at <hi>Ibbeſley</hi> in <hi>Hant<g ref="char:EOLhyphen"/>ſhire,</hi> and ſince at <hi>London</hi> and <hi>Westmin<g ref="char:EOLhyphen"/>ſter,</hi> and divers other places of this King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Sam: Speed,</hi> at the Rainbow in Fleetſtreet, neer the Inner Temple-gate, 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:101336:2"/>
+               <pb n="1" facs="tcp:101336:2" rendition="simple:additions"/>
+               <head>THE Blazing Star; OR, A DISCOURSE OF COMETS, THEIR Natures and Effects.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>YOur Worſhips commands in Sir <hi>I. D.</hi> the Lady <hi>F.</hi> and Mr. <hi>S.</hi> affairs, have been obſerved with that care and exactneſs that becomes him who underſtands lit<g ref="char:EOLhyphen"/>tle other buſineſs he hath to do in this world, beſide your ſervice, as will appear to your great trouble, in the tedious account of them, ſent
+<pb n="2" facs="tcp:101336:3"/>
+your Worſhip by Dr. <hi>P.</hi> as an alleviation whereunto, I thought fit humbly to repreſent to your Worſhip a ſtrange Accident that befel us here of late: The Ac<g ref="char:EOLhyphen"/>cident, Sir is this:</p>
+               <p>Honeſt <hi>I. S.</hi> was going to <hi>N.</hi> Market, about one of the clock the laſt Thurſday morning; and obſerving (as you know he is curious that way above his condi<g ref="char:EOLhyphen"/>tion) the ſituation of the Stars in <hi>Taurus,</hi> was ſurpri<g ref="char:EOLhyphen"/>zed with a ſudden glaring and light, which obliged him and his companions to alight and view the ſtrange thing more narrowly; but ſo confounded he was with the rude Gang he had got (to whom might be applied the Diſcourſe of the <hi>Duke d' Alva,</hi> who be<g ref="char:EOLhyphen"/>ing demanded, whether he had ſeen the laſt <hi>Comet,</hi> ſaid, <hi>He had not for many years been at leiſure to look up ſo high</hi>) that until he had tired them as much with his patience and obſervation, as they had him with their noiſe and impertinence, he could not make any exact judgement of its Figure, Situation, or Aſpect. At laſt having diſmiſſed the people that talked nothing but <hi>Lilly</hi> and <hi>Booker,</hi> and concluded nothing but fears and jealouſies, he went up a little Hill by the way ſide, and lay upon his back neer a quarter of an hour, between two and three of the clock; in which po<g ref="char:EOLhyphen"/>ſture he obſerved a Star, in his apprehenſion about the ſame dimenſion with <hi>Jupiter,</hi> South South-Weſt, dazling out glaring and glimmering Beams (as far as he could then judge) ſome 11 yards long, and ſix broad, declining between 3 and 4 a clock Weſt-ward; ſo as that by the interpoſition of an untoward Cloud he loſt it, and ſo aroſe and followed his Comerades, who within ſix hours after filled the Town with the moſt
+<pb n="3" facs="tcp:101336:3"/>
+horrid apprehenſions that mortals could be poſſeſſed with; thoſe more knowing reflecting on that in <hi>Caſ<g ref="char:EOLhyphen"/>ſiopoeia,</hi> the old people talking of the Blazing Star 1607. and the Comet 1608. and the ſubtle Fanaticks im<g ref="char:EOLhyphen"/>proving mens fears and ignorance by a more dreadful ſtory of Prodigies (wherein the meaneſt of them, as your Worſhip obſerved very well at <hi>S. April</hi> 7. are moſt ready and punctual) inſomuch that our Town had amaſſed together ſo much ſtrange diſcourſe of ſuch <hi>memorable</hi> things as happened ſince his Majeſties moſt <hi>memorable</hi> Reſtauration (a miracle that in my poor opinion might ſuperſede all others) as occaſioned Dr. <hi>T.</hi> (for whoſe Prudence and Learning this place is infinitely obliged to you) to preach laſt Sunday upon this Text, <hi>There is no new thing under the Sun;</hi> wherein, having premiſed the ſtory of <hi>Charles</hi> the Great, who looking on the new Star which preſaged and preceded his death, was very inquiſitive and deſirous to know what it portended, <hi>Enigardus</hi> (who writ his Hiſtory) re<g ref="char:EOLhyphen"/>turneth the words of the Prophet <hi>Jeremy,</hi> Chap. 10.2. for anſwer; <hi>Be not diſmayed at the Signs of the Heaven, for the Heathen are diſmayed at them:</hi> Unto which the wiſe Emperor replies; <hi>Ne quidem metuere ſe ejuſmodi ſigna, ſed ſignorum opificem cauſam;</hi> That he did not indeed fear any ſignes of that nature, but the Maker or cauſe of thoſe ſignes; adding, That it is moſt certainly true, that ſecond cauſes are ſeldom ſuſpended or alter<g ref="char:EOLhyphen"/>ed in their motions and actings, but only upon ſpecial deſign, to let the world know that nature and the chain of cauſes are not independent, but that he is the Soveraign Lord of them, and their being and motions
+<pb n="4" facs="tcp:101336:4"/>
+are in his hand: yet withal he muſt repeat (he ſaid) thoſe Verſes of <hi>Lucretius:</hi>
+                  <q>
+                     <l>Caetera quae fieri in terris coelo<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> tuentur</l>
+                     <l>Mortales pavidis quam pendent mentibus ſaepe</l>
+                     <l>Efficiunt animos humileis formidine divum</l>
+                     <l>Depreſſoſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> premunt ad terram: propterea quod</l>
+                     <l>Ignorantia cauſarum conferre deorum</l>
+                     <l>Cogit ad imperiumres, &amp; concedere regnum &amp;</l>
+                     <l>Quorum operum cauſa nulla ratione videre</l>
+                     <l>Poſſunt; haec fieri divino numine dicant.</l>
+                  </q>
+               </p>
+               <p>Which I finde thus Engliſhed in a little Book Sir <hi>R. T.</hi> beſtowed on me.
+<q>
+                     <l>Thoſe Bugbear-Meteors which the timerous eyes</l>
+                     <l>Of pavid mortals wonder at in the skies:</l>
+                     <l>And thoſe unfrequent Progidies that appear</l>
+                     <l>On Earth (while their weak ſouls are fool'd by fear)</l>
+                     <l>Are the ſole charmes that do emaſculate</l>
+                     <l>And cheat mens minds into a belief of fate</l>
+                     <l>And ſome vindictive numen: for becauſe</l>
+                     <l>Men underſtand not natures criptick Laws</l>
+                     <l>Nor her occult efficiency, they flye</l>
+                     <l>(To ſalve their ignorance) to divinity:</l>
+                     <l>And idly reſt in this, whate're befal;</l>
+                     <l>'Twas caus'd by Providence, that diſpoſeth all.</l>
+                  </q>
+               </p>
+               <p>Seconding it with a paſſage, as I remember, of <hi>Plutarchs,</hi> That it is our ignorance only of things, that makes them ſeem to us both prodigious and miracu<g ref="char:EOLhyphen"/>lous:
+<pb n="5" facs="tcp:101336:4"/>
+whereas were the true cauſe known or hunted out, the wonder would quickly abate, and ſeem leſs; and that which before ſeemed monſtrous and miracu<g ref="char:EOLhyphen"/>lous, would become very common, if not contempti<g ref="char:EOLhyphen"/>ble. Which mindes me of a paſſage in <hi>Du Bartas:</hi>
+                  <q>
+                     <l>I'll not gainſay but that a knowing man</l>
+                     <l>May give ſome reaſon (if he list to ſcan)</l>
+                     <l>Of all that moves under heavens hollow cope.</l>
+                  </q>
+               </p>
+               <p>The honeſt Gentleman (whom I pitie when he throweth away his Learning on a poor Village in your abſence) acknowledging, That God might raiſe Nature (which he ſaid was but his Art) above the ap<g ref="char:EOLhyphen"/>prehenſion of common men. Yet he aſſerted, That theſe things have been in every age, and that men have aſſigned the cauſes of them, not obſerving any fatal effects from them; as the Twins in one brought forth <hi>Anno</hi> 1474 neer <hi>Verona,</hi> with four hands, two heads, four legs, two privities, and joyned juſt from the but<g ref="char:EOLhyphen"/>tock upward: and thoſe in <hi>Ubulen</hi> a village in <hi>Flanders</hi> 1567. a childe with two heads, four arms, and mem<g ref="char:EOLhyphen"/>bers in all other parts for two bodies, ſave the legs, of which there were but two onely: the cauſe whereof was aſſigned by the Phyſicians of thoſe times to be a violent contuſion; and the event proved no worſe, then that two Queens were thoſe years brought to bed of Twins a piece: which (with many more terre<g ref="char:EOLhyphen"/>ſtrial wonders) he inſiſted upon.</p>
+               <p>But the occaſion being a celeſtial one, he mentioned out of Biſhop <hi>Uſher</hi> the orderly Armies and Fights in the air, over <hi>Antiochus</hi> his tent, <hi>anno mundi</hi> 3785.
+<pb n="6" facs="tcp:101336:5"/>
+which imported no more harm to him, then that he ſhould take <hi>Jeruſalem,</hi> as he did with all its treaſures fourty days afterwards.</p>
+               <p>The fire in heaven, <hi>anno Chr.</hi> 15. when there was no truſt but a young Emperour was born, and a Plot of <hi>Agrippa</hi> and <hi>Julia</hi>'s defeated.</p>
+               <p>A Blazing Star like a ſword hanging over <hi>Rome, anno Chriſti</hi> 30. when <hi>Tiberius</hi> ſetled his Government, and <hi>Otho</hi> was born.</p>
+               <p>A dreadful Comet ſix yards in bigneſs to common appearance for fourty days, <hi>Anno Chr.</hi> 48. when <hi>Ve<g ref="char:EOLhyphen"/>ſpaſian</hi> took onely the Iſle of <hi>Wight,</hi> and his ſouldiers overthrew the <hi>Picts.</hi>
+               </p>
+               <p>The vaſt Star of thirty yards length, laſting ſix months, three weeks, and four days, <hi>anno Chriſti</hi> 56. betokened onely <hi>Nero</hi>'s five years good Reign; as did another three years after, intimating his Conqueſt of the Jews: and fifteen years after, when <hi>Titus</hi> utterly ſubdued the Jews: and ſeven years after, when <hi>Adri<g ref="char:EOLhyphen"/>an</hi> was born, and <hi>Veſpaſian</hi> was ſetled.</p>
+               <p>
+                  <hi>Anno Chriſti</hi> 81. A Terrible Comet appeared. The effect of it was no other, but that <hi>Haldanus</hi> the <hi>Swede</hi> was reſtored to his Kingdom from which he was ex<g ref="char:EOLhyphen"/>pelled.</p>
+               <p>
+                  <hi>Anno Chriſti</hi> 152. Three Suns appeared at <hi>Conſtan<g ref="char:EOLhyphen"/>tinople</hi> (at the ſame time) with a Star and a Rain-bow. The effect was this: <hi>Caeſar</hi> ſeeing a wonderful fire at <hi>Rome,</hi> cauſeth the perſecution to ceaſe by an Edict from himſelf.</p>
+               <p>
+                  <hi>Anno Chriſti</hi> 187. The Stars were ſeen all the day long at <hi>Rome.</hi> And ſome Apparitions hung ſtreaming down in the very middle of the Air. The effect of it
+<pb n="7" facs="tcp:101336:5"/>
+was this: <hi>Perennius</hi> and his Son were executed for Treaſon. <hi>Hanno</hi> of <hi>France</hi> wars with the <hi>Romans.</hi>
+               </p>
+               <p>
+                  <hi>Anno Chriſti</hi> 195. There were ſeen at <hi>Rome</hi> three Stars very glorious. The effect of it was this: <hi>Seve<g ref="char:EOLhyphen"/>rus</hi> followed war againſt the <hi>Parthians.</hi>
+               </p>
+               <p>
+                  <hi>Anno Chriſti</hi> 204. A Comet for many dayes toge<g ref="char:EOLhyphen"/>ther was ſeen at <hi>Rome.</hi> The effect: The <hi>Romans</hi> waſte <hi>Arabia;</hi> ſtrange Hereſies broached by <hi>Praxeus.</hi>
+               </p>
+               <p>In the year of our Lord 237. A Blazing Star was ſeen at <hi>Rome,</hi> that extended it ſelf a very great length, and was ſeen both to burn and blaze many nights to<g ref="char:EOLhyphen"/>gether. The effect: The <hi>Goths</hi> at this time became terrible to the <hi>Roman</hi> Empire.</p>
+               <p>In the year of our Lord 323. There was a terrible Comet ſeen for many dayes together at <hi>Rome.</hi> The effect: <hi>Conſtantine</hi> and <hi>Licinius</hi> met at <hi>Chalcedon. Octa<g ref="char:EOLhyphen"/>vian</hi> recovers <hi>Britain</hi> by the aid of <hi>Fincomore.</hi>
+               </p>
+               <p>In the year of our Lord 377. A Comet of wonder<g ref="char:EOLhyphen"/>ful greatneſs was ſeen in <hi>Cicilia.</hi> The effect of it; That the <hi>Scots</hi> and <hi>Picts</hi> were ſet together by the ears by <hi>Maximus.</hi> And the <hi>Goths</hi> turn <hi>Arrians.</hi>
+               </p>
+               <p>In the year of our Lord 384. A fiery Pillar in the Heavens; the influence whereof was remarked with no other product, then that <hi>Maximus</hi> poſſeſſeth <hi>Bri<g ref="char:EOLhyphen"/>tain, France, Spain</hi> and <hi>Africa.</hi> And upon an Appeal from the Council of <hi>Bourdeaux</hi> ſetled <hi>France.</hi>
+               </p>
+               <p>In the year of our Lord 392. The <hi>Graecians</hi> obſerved a new Star like a ſword for three and forty dayes to<g ref="char:EOLhyphen"/>gether. The remarkable contingence that attended it, was the crowning of <hi>Eugenius</hi> Emperor, and the <hi>Romans</hi> impoſing a Tribute upon the <hi>French.</hi>
+               </p>
+               <p>A like action whereunto happened in the year 430.
+<pb n="8" facs="tcp:101336:6"/>
+when a ſword-like Star was ſeen at <hi>Rome.</hi> And the Hiſtory about that time mentioneth nothing more re<g ref="char:EOLhyphen"/>markable, then the deſtruction of the <hi>Goths</hi> by diviſi<g ref="char:EOLhyphen"/>on amongſt themſelves; and the ſettlement of Chri<g ref="char:EOLhyphen"/>ſtianity by the burning of the <hi>Sybils</hi> books, and the overthrow of the Idol-Temples.</p>
+               <p>In the years 434. &amp; 454. Two dreadful Comets were ſeen; the one for ſix weeks, the other for ten weeks together: the firſt whereof had no other ho<g ref="char:EOLhyphen"/>nour, then that wonderful Peace between the Empe<g ref="char:EOLhyphen"/>ror and the <hi>Vandals;</hi> nor the other any more repute, then the <hi>Britains</hi> confining of the <hi>Saxons</hi> within the Iſle of <hi>Thanet.</hi>
+               </p>
+               <p>In the famous year of our Lord 483. The world was amazed with the two wonderful blazing Stars ſeen in <hi>Ruſsia;</hi> which yet had gone out like a candle in ſnuff, had not <hi>Clavis</hi> his no leſs wonderful Conqueſt innobled them to the renown of Prodigies. And an eminent Comet was obſerved in the royal Sign <hi>Sagit<g ref="char:EOLhyphen"/>tarius,</hi> by the incomparable Mathematician <hi>Alman<g ref="char:EOLhyphen"/>dus,</hi> which yet had been forgotten as the laſt Chriſt<g ref="char:EOLhyphen"/>mas-candle, had not it blazed a freſh with the glo<g ref="char:EOLhyphen"/>ries of the then Emperour, who ſhewed that Stars ruled the world, and wiſe men Stars.</p>
+               <p>In the year of our Lord 590. The <hi>Roman</hi> Empire ſtood amazed at a blazing Meteor as great as it ſelf, which yet was no greater in its blaze (I muſt confeſs) then in its product. A Famine ſo great in <hi>Britain,</hi> that the people aſſembled themſelves together in flocks to caſt themſelves into the Sea: and a Plague ſo great in <hi>Rome,</hi> that 800. men fell dead in one hour in the time of Proceſſion.</p>
+               <p>
+                  <pb n="9" facs="tcp:101336:6"/>And yet an horrible Comet in the ſame place, in the year of our Lord 597. was ſo innocent, that there is no other effect of it conveyed to poſterity, then that bleſſed one of St. <hi>Gregories</hi> redeeming the captive Chriſtians in <hi>Greece</hi> from the Heathens, and the more miſerable captive Heathens from Heatheniſm it ſelf: nor that Meteor which <hi>Jeruſalem</hi> for a month together doted on, any other conſequence then that <hi>Dagopart</hi> was ſole Monarch of <hi>France,</hi> and the Pope ſole Arbi<g ref="char:EOLhyphen"/>ter of the quarrel between the <hi>Sarazens</hi> and the Em<g ref="char:EOLhyphen"/>peror of <hi>Conſtantinople.</hi>
+               </p>
+               <p>'Tis true, in the year of our Lord 687. near <hi>Christ<g ref="char:EOLhyphen"/>mas</hi> time, (Chriſt muſt ſtill be honoured with a Star) a vaſt Comet was obſerved near the conſtellation which is called <hi>Virgiliae,</hi> when the Emperor defeated the <hi>Sclavi,</hi> and raiſed ſo great a controverſie about the election of the Pope of <hi>Rome,</hi> that for many years af<g ref="char:EOLhyphen"/>ter he had the choice of him himſelf.</p>
+               <p>The years ſeven hundred twenty three, and forty ſe<g ref="char:EOLhyphen"/>ven, were honoured with two Comets together in <hi>Italy,</hi> when <hi>Italy</hi> cantoned it ſelf into Dukedoms and free States: And another Comet like a ſword, which indeed was followed at <hi>Conſtantinople</hi> with a Plague for three years, that they wanted men to bury their dead; but withal with ſuch a ſucceſs of the Emperors againſt the <hi>Sarazens,</hi> as gave Law to <hi>Cyprus,</hi> and moſt of thoſe neighbour Countreys.</p>
+               <p>'Tis true, the blazing Star in the Eaſt might ſigni<g ref="char:EOLhyphen"/>fie (ſaid ſome Aſtronomers) the expulſion of <hi>Telerick;</hi> and yet, why not the Emperors onſlaught of 6000 <hi>Sarazens,</hi> and <hi>Alphonſus</hi> his overthrow of ſeventy thou<g ref="char:EOLhyphen"/>ſand more, which happened about the ſame time?</p>
+               <p>
+                  <pb n="10" facs="tcp:101336:7"/>The Comet in <hi>Aries,</hi> in the year 840. might ſigni<g ref="char:EOLhyphen"/>fie the <hi>Moors</hi> waſte of <hi>Italy;</hi> and why not their expul<g ref="char:EOLhyphen"/>ſion out of it? for both are in the Annals of one year.</p>
+               <p>The blazing Star vertical to <hi>Spain,</hi> might import the <hi>Vandals</hi> and <hi>Sarazens</hi> incurſions; and yet might prog<g ref="char:EOLhyphen"/>noſticate as well their overthrows, both happening in one month.</p>
+               <p>Three Comets for a fortnight vertical to <hi>Germany,</hi> might foretel that <hi>Gonſalvus</hi> ſhould have poyſoned <hi>Sancho</hi> with an Apple, and might likewiſe as well bode that the <hi>French</hi> King and the Emperor after their bloody War, ſhould play at Cards this year: for theſe are the two moſt remarkable paſſages for this year.</p>
+               <p>A Comet very horrible to behold, caſting out flames on every ſide, ſeen in the year of our Lord 1062. might portend <hi>Otho</hi> poyſoned with a pair of Gloves; and why not the flying of the <hi>Danes</hi> to the Church, being there burnt, when they were worſted at <hi>Oxford?</hi>
+               </p>
+               <p>
+                  <hi>Stella Crinita,</hi> or that very great hairy Comet, which appeared in the year 1043. might indeed fore<g ref="char:EOLhyphen"/>tel that the Emperor ſhould have overcome the <hi>Ruſ<g ref="char:EOLhyphen"/>ſians,</hi> who invaded his Territories: and why not as well the great Famine in <hi>Germany</hi> and <hi>France,</hi> together with the <hi>Pruſsians</hi> invaſion of <hi>Polonia,</hi> where were 1500 and 2000 taken, all happening the ſame year?</p>
+               <p>The two blazing Stars which were ſeen vertical to <hi>Poland,</hi> in the year 1058. might preſage the <hi>Saxons</hi> Rebellion againſt the Emperor, as well as the <hi>Ruſsians</hi> Rebellion in <hi>Poland,</hi> which were reduced by <hi>Boleſlaus,</hi> both happening about the ſame time.</p>
+               <p>
+                  <pb n="11" facs="tcp:101336:7"/>The Comet which appeared for eighteen days to<g ref="char:EOLhyphen"/>gether, and the Star with the Croſs and a half Moon, ſeen in <hi>Italy</hi> in the year 1212, might foretel that two hundred thouſand Moors ſhould be ſlain by the Spa<g ref="char:EOLhyphen"/>niards: and likewiſe the valour of the Flemiſh, who together with the Engliſh took three hundred Sayl of ſhips from <hi>Philip</hi> King of <hi>France,</hi> and burnt one hun<g ref="char:EOLhyphen"/>dred more; happening in the ſame year.</p>
+               <p>The great Comet fearful to behold in the year 1242. might indeed ſignifie the Infidels taking of <hi>Jeruſalem;</hi> and why not as well the miſerable Plague in <hi>Greece,</hi> and the great Famine in <hi>Conſtantinople?</hi>
+               </p>
+               <p>The great Comet which appeared in the year 1255 might ſignifie the Venetians taking of <hi>Padua,</hi> as well as the breaking in of the Genoeſe into <hi>Venice,</hi> and their expulſion.</p>
+               <p>That Comet of notable greatneſs ſeen in the year 1285, might portend the Norwegians invaſion of <hi>Denmark,</hi> as well as the Helvetians War againſt the Emperour.</p>
+               <p>The Comet of wonderful magnitude which appea<g ref="char:EOLhyphen"/>red in the year 1300, might foretel that the Engliſh ſhould beat the Scots: and why not as well, that the Turk ſhould invade the Empire, and do great miſ<g ref="char:EOLhyphen"/>chief there?</p>
+               <p>The great Comet with a beard ſeen in the year 1376, might preſage the burning of five hundred hou<g ref="char:EOLhyphen"/>ſes in <hi>Gand,</hi> the drowning of ſeventeen Towns in <hi>Flan<g ref="char:EOLhyphen"/>ders;</hi> likewiſe the Chriſtians killing two thouſand Turks in <hi>Boſna,</hi> by a Stratagem.</p>
+               <p>The Blazing Star that ſhot wonderful beams of fire from it, might indeed foretel the waſting of <hi>Scotland</hi>
+                  <pb n="12" facs="tcp:101336:8"/>
+by the Engliſh, the Friſons rebellion in <hi>Holland:</hi> and why not as well the Popes impriſonment by the King of <hi>France?</hi>
+               </p>
+               <p>That Comet of mighty magnitude ſeen in <hi>Poland,</hi> in the year 1439, might foretel that <hi>France</hi> ſhould be twice beaten by the Engliſh in <hi>Normandy,</hi> and the Emperours death going againſt the Turks; as well as the Polanders waſting of <hi>Sileſia.</hi>
+               </p>
+               <p>That glorious Star ſeen in the year 1478 to run a<g ref="char:EOLhyphen"/>long the firmament, might indeed portend the Turks waſting of <hi>Carinthia;</hi> and why not their defeat as well by the Hungarians and Tranſylvanians?</p>
+               <p>The very great Comet that paſſed through <hi>Cancer, Leo</hi> and <hi>Virgo,</hi> which was viſible to all <hi>Europe,</hi> in the year 1530, might portend the four hundred and four Pariſhes drowned in <hi>Holland,</hi> with all their people and cattel; as well as the Turks taking of <hi>Buda</hi> in <hi>Hungaria.</hi>
+               </p>
+               <p>The bloudy Star and Croſs which were ſeen flying in the air, and the Blazing Star ſeen likewiſe in the year 1539, might ſignifie the great Fire in <hi>Conſtanti<g ref="char:EOLhyphen"/>nople,</hi> which burnt the Gaol and ſeven hundred priſo<g ref="char:EOLhyphen"/>ners: and why not the Iriſh overthrow, who had invaded the Engliſh; both being done in the ſame year?</p>
+               <p>There appeared a Comet in the North, in the year 1652, which might very well foretel that the Dutch and French ſhould be ſubdued by the Engliſh; which was done the very ſame year: and why not as well the change of the Engliſh Government by <hi>Oliver Cromwel,</hi> who diſſolving the long Parliament, made himſelf Protector, the next year after?</p>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:101336:8"/>
+               <p>THus you ſee how uncertain the effects of Co<g ref="char:EOLhyphen"/>mets are, ſometimes boding the greateſt good, ſometimes the greateſt evil; which alas, can<g ref="char:EOLhyphen"/>not be judged ſignes of any thing, when they are un<g ref="char:EOLhyphen"/>derſtood by none. What is a ſign, ſignifieth; and what ſignifieth is known: and how little underſtood or known any Meteor, Exhalation, Comet, Apparition, or Prodigy is, learn we from <hi>Democritus</hi> Senior, who laughed at mens folly this way loud among the Hea<g ref="char:EOLhyphen"/>thens; and <hi>Democritus</hi> Junior, who doth it louder among the Chriſtians, in theſe words:</p>
+               <p>Who can give a reaſon of this diverſity of Meteors, that it ſhould rain Stones, Frogs, Mice, &amp;c. Rats, which they call <hi>Lemmer</hi> in <hi>Norway,</hi> and are manifeſtly obſerved (as <hi>Munſter</hi> writes) by the Inhabitants, to deſcend and fall with ſome faeculent ſhowres, and like ſo many Locuſts, conſume all that is green. <hi>Leo Afer</hi> ſpeaks as much of Locuſts; about <hi>Fez</hi> in <hi>Barbary</hi> there be infinite ſwarms in their fields upon a ſudden: ſo at <hi>Arles</hi> in <hi>France</hi> 1553. the like happened by the ſame miſchief, all their graſs and fruits were devoured, <hi>magna incolarum admiratione &amp; conſternatione</hi> (as <hi>Valle<g ref="char:EOLhyphen"/>riola obſer. med lib.</hi> 1. <hi>obſer.</hi> 1. relates) <hi>coelum ſubito ob<g ref="char:EOLhyphen"/>umbrabant, &amp;c.</hi> he concludes, it could not be from natural cauſes, they cannot imagine whence they come, but from heaven.</p>
+               <p>There were 15 Aſtrologers and Mathematicians
+<pb n="14" facs="tcp:101336:9"/>
+ſent for by the Emperor to conſider the famous ap<g ref="char:EOLhyphen"/>pearance in the Star <hi>Caſsiopoeia,</hi> and each one put as the ſeptuagint of old in a Cell by himſelf: but they were ſo far from agreeing in every Apex of the inter<g ref="char:EOLhyphen"/>pretation of that Star, that they differed in the very ſubſtance of it; for <hi>Eckins</hi> would needs infer thence the union of the Dukedom of <hi>Inſpruch,</hi> with the Arch-Dukedom of <hi>Auſtria; Tuddus</hi> the death of the Pala<g ref="char:EOLhyphen"/>tine of <hi>Hungary; Peucerius</hi> the diſſolution of all free States; <hi>Algubinus</hi> the Sea fights between the <hi>Turk</hi> and the <hi>Venetians; Fromund</hi> Senior the ſuppoſition of the Hereticks (as if that Star had been as infallible in its <hi>Caſsiopoeian</hi> chair, as the Pope is in his) <hi>Haſhas</hi> the reduction of the Princes of <hi>Italy,</hi> and ſo every one ac<g ref="char:EOLhyphen"/>cording to the intereſt of the place he lived in, and the inclination of the Government he depended upon; inſomuch that the chief Miniſter cryed out, <hi>Sapientes olim aſtra ducunt jam inſipientes decipiunt;</hi> the Stars for<g ref="char:EOLhyphen"/>merly led wiſe men, and now play with fools: <hi>Stent jam Aſtrologi &amp; ij qui contemplantur ſtellas qui notas fa<g ref="char:EOLhyphen"/>ciunt in menſes praedictiones ſuas;</hi> Let now the Aſtrolo<g ref="char:EOLhyphen"/>gers, the Star-gazers, the monthly Prognoſticators ſtand up, <hi>Eſ.</hi> 47.13.</p>
+               <p>
+                  <hi>Peter Nonnius</hi> and <hi>Kepler</hi> have undertaken four de<g ref="char:EOLhyphen"/>monſtrations to make this out, That no Meteors, Clouds, Foggs, Vapours, Exhalations ariſe higher then 56 or 84 <hi>Germane</hi> miles, and all others that are obſerved higher, to be purer Air or Element of fire. The excellent <hi>Tycho Brach.</hi> ſubtle <hi>Cardan,</hi> and the ho<g ref="char:EOLhyphen"/>neſt Prefacer to <hi>Euclid,</hi> I think his name is <hi>Jo. Bena,</hi> make all this ridiculous by refractions, and many o<g ref="char:EOLhyphen"/>ther demonſtrations. The learned <hi>Landgrave</hi> of <hi>Haſ<g ref="char:EOLhyphen"/>ſias</hi>
+                  <pb n="15" facs="tcp:101336:9"/>
+Mathematician, <hi>Ratman</hi> by name, and <hi>Claremon<g ref="char:EOLhyphen"/>tius,</hi> in their Aſtronomical Tables, and the <hi>Anti-Tycho,</hi> make Comets a part of the Air, and the Heavens im<g ref="char:EOLhyphen"/>penetrable and unalterable: <hi>Tycho</hi> in his Tables aſſerts them part of the Heavens (which in his Epiſtles he makes <hi>non dura aut impervia ſed liquida, ſubtilis, motui<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Planetarum facile cedens;</hi> they are his own words, That they are penetrable and ſoft, as the air it ſelf is; and that the Planets move in it, as birds in the Air, and and fiſhes in the Sea; and by their Progreſs, Paral<g ref="char:EOLhyphen"/>laxes, Refractions and Interferings with the Planets, Centricks, Eccentricks, Cycles, Epicycles, Aequator, Tropicks, Circles Aequant, and the other hard words of <hi>Ptolomy</hi> and his followers, are hooted at by <hi>Delrio, Imo</hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as ſuppoſitions and fancies: that the Comet in <hi>Caſsiopoeia</hi> 1572. that in <hi>Cygno</hi> 1600. that in <hi>Sagittari<g ref="char:EOLhyphen"/>us</hi> 1604. and others were new productions in the Aetherial Regions, as <hi>Raeſlin</hi> would have it; <hi>Caeſar la Galla</hi> ſpeaking of the appearances, or <hi>Phainomena,</hi> in the Orb of the Moon will not admit: that they were created <hi>ab initio,</hi> and ſhew themſelves at ſet times (as <hi>Blancanus</hi> affirms, who cryeth, <hi>Non per eunt ſed diſpa<g ref="char:EOLhyphen"/>rent) Burbachius</hi> and <hi>Maginus</hi> earneſtly contradict.</p>
+               <p>A man would think that when Aſtronomers under<g ref="char:EOLhyphen"/>dertake to ſhew, that this or that is a new Star, they know all the Stars: yet <hi>Jo. Bayerus</hi> will tell you they are 1026. or 1725. the Rabbins among whom dwelt the ancient Aſtrologers 29000. My<g ref="char:EOLhyphen"/>riades: and when theſe were at variance about their number, <hi>Galileus</hi> hath found they are infinite as nailes driven into a door; and ſo its impoſſible to gueſs when any new Star appears. Theſe and ſuch like inſtances
+<pb n="16" facs="tcp:101336:10"/>
+have cooled our ſpirits ſo far, that we are perſwaded all things continue as they were before the foundati<g ref="char:EOLhyphen"/>on of the world; and that if it be vanity to dogmatize in things neer us, it is much more for to be perempto<g ref="char:EOLhyphen"/>ry in things ſo much above us: and I am of <hi>Pineda</hi>'s mind, that it is a queſtion fit for a God to propound, and for a man to be amazed at: <hi>Job</hi> 37, 38. <hi>Doſt thou know the ballancing of the Clouds, the wondrous works of him who is perfect in knowledge? haſt thou entred into the treaſures of the ſnow? or haſt thou ſeen the treaſures of the hail, which I have reſerved againſt the time of trouble, a<g ref="char:EOLhyphen"/>gainſt the day of battel and war? hath the rain a father? or who hath begotten the drops of dew? out of whoſe womb came the ice and the hoary froſt of heaven, who hath gendred it? canſt thou bind the ſweet influences of the Pleia<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, or looſe the bands of</hi> Orion? <hi>canſt thou bring forth</hi> Mazaroth <hi>in his ſeaſon? or canſt thou bind</hi> Arcturus <hi>with his Sons? knowest thou the Ordinances of Heaven? canst thou ſet the dominion thereof in the earth?</hi>
+               </p>
+               <p>Beſides all this, the late learned Earl of <hi>Northampton</hi> in his <hi>Defenſative against the poyſon of ſuppoſed Prophecies,</hi> dedicated to Sir <hi>Francis Walſingham,</hi> upon the occaſion of the <hi>Caſsiopaeian</hi> Star, bringeth many ancient and modern inſtances, particularly of the Comets in the years 1555, 1556, 1557, 1558. after which happen<g ref="char:EOLhyphen"/>ed nothing extraordinary or evil; all things being as cheap as they had been, and as abundant. Where<g ref="char:EOLhyphen"/>upon Dr. <hi>Hakewil</hi> commends the diligence and faith<g ref="char:EOLhyphen"/>fulneſs of <hi>Gemma Friſius,</hi> who obſerved all the Comets that ever were, as this Gentleman before us hath done, and noted as many good effects as bad which have ſuc<g ref="char:EOLhyphen"/>ceeded them.</p>
+               <p>
+                  <pb n="17" facs="tcp:101336:10"/>
+                  <hi>Peucer</hi> a great Mathematician in <hi>Germany</hi> progno<g ref="char:EOLhyphen"/>ſticaten upon the laſt Comet there, I mean the fore<g ref="char:EOLhyphen"/>mentioned Star, That mens bodies ſhould be parch<g ref="char:EOLhyphen"/>ed and burned up with heat: but (ſaith my Author) how happened it? Forſooth (ſaith he) we had not a more unkindly Summer for many years, in reſpect of extraordinary cold: never leſs inclination to War; no Prince deceaſed in that time; and the Plague, which had been ſomewhat quick before in <hi>Lombardy,</hi> as God would have it, ceaſed a the riſing of the Comet.</p>
+               <p>Queen <hi>Elizabeth</hi> lying at <hi>Richmond</hi> at the time of a Comet, 1568, being diſſwaded by all means from looking thereon, with a courage anſwerable to her greatneſs, cauſed the window to be opened, and ſaid, <hi>Jacta est Alea;</hi> thereby (ſaith my Hiſtorian) ſhew<g ref="char:EOLhyphen"/>ing, that her ſtedfaſt hope and confidence was too firmly planted in the providence of God, to be blaſt<g ref="char:EOLhyphen"/>ed or affrighted with thoſe beams, which either had a ground in Nature whereon to riſe, or at leaſt wiſe no warrant in Scripture to portend the miſhap of Prin<g ref="char:EOLhyphen"/>ces. And (ſaith the learned Apologiſt) I do not remem<g ref="char:EOLhyphen"/>ber that any Comet appeared either before her death, (as in the beginning of her moſt excellent Reign there did) nor of Prince <hi>Henry,</hi> or King <hi>Henry the Great</hi> of <hi>France;</hi> the firſt a moſt peerleſs Queen, the other a moſt incomparable Prince, and the third for prudence and valour a matchleſs King; and all three, perſons in whoſe deſtiny was involved the fate of <hi>Europe.</hi>
+               </p>
+               <p>Inſomuch that I cannot but approve of <hi>Veſpaſians</hi> humour, when a Comet appeared; who as <hi>Dion Halicarnaſſeus</hi> reports, being told it portended his death, redlyed merrily, No ſurely, this buſhie Star
+<pb n="18" facs="tcp:101336:11"/>
+notes not me, but the Parthian King: <hi>ipſe enim Coma<g ref="char:EOLhyphen"/>tus est, ego vero calvus ſum:</hi> for he wears buſhie looks, but I am bald.</p>
+               <p>And I cannot paſs the two inſtances that are brought of the greateſt good preſaged to mankind by two Comets; the one that, <hi>Foeliciſſimum ſydus, &amp; auſpicatiſſimus Cometa,</hi> in <hi>Chalcedius</hi> upon <hi>Plato.</hi> That Star of <hi>Jacob</hi> about this time foreſhewed the birth of the greateſt Benefactor to Mankind, Chriſt: the other, that whereof <hi>Tacitus</hi> ſpeaks, <hi>Cometes ſummè bonus appa<g ref="char:EOLhyphen"/>ruit qui praenuncius fuit mortis magnis illius Tyranni, &amp; peſtile<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> iſſimi hominis, i. e.</hi> There appeared a favourable and moſt auſpicious Comet, as an Herald to proclaim the death of that great Tyrant, meaning <hi>Nero,</hi> and moſt peſtilent man.</p>
+               <p>The Predictions then and ſucceſſes of miſchievous &amp; infortunate accidents from the appearance of Comets, we may conclude ſo uncertain, and the knowledge of them ſo little, that they are now more rare then in former times, when they appeared almoſt every day; becauſe the people are more knowing, and not ſubject to thoſe affrightments he that is Prince of the Air for<g ref="char:EOLhyphen"/>merly put them unto, upon the account of every new Apparition: which a curious Reader may ſee in <hi>Ly<g ref="char:EOLhyphen"/>coſthenes de Prodigiis &amp; Portentis ab orbe condito uſque ad annum</hi> 1557. <hi>Peucer de Prodigiis Cardan, de rerum ve<g ref="char:EOLhyphen"/>ritate.</hi>
+               </p>
+               <p>In the middeſt of this diſcourſe ſtarted up the Que<g ref="char:EOLhyphen"/>ſtion, Whether new Stars, are poſſible?</p>
+               <p>The Star at our Saviours birth was inſtanced in: to which inſtance it was returned, that it being not obſerved by the Mathematicians of thoſe times, the
+<pb n="19" facs="tcp:101336:11"/>
+                  <hi>Magi</hi> were only men carryed and moved by <hi>Balaams</hi> Propheſie, <hi>Numb.</hi> 24.17. who was their Countrey<g ref="char:EOLhyphen"/>man, it is generally thought rather a blazing light, created in the Region of the Air, carrying the reſem<g ref="char:EOLhyphen"/>blance of a Star; then a new and true created Star ſeat<g ref="char:EOLhyphen"/>ed in the Firmament.</p>
+               <p n="2">2. That in <hi>Caſsiopoeia</hi> which we have ſo often men<g ref="char:EOLhyphen"/>tioned (the very year of the great maſſacre in <hi>France</hi>) was urged again, and it was ſaid it held the ſame Aſ<g ref="char:EOLhyphen"/>pect in all places of Chriſtendom, it <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an the ſame courſe, it kept the ſame proportion, diſtance, and ſitu<g ref="char:EOLhyphen"/>ation every where, and in every point with the fixed, by the ſpace of two whole years, which no vapour can do: But I replied to that, as we do to all arguments, from appearances above the Moon, in the words of <hi>Varro,</hi> as they are quoted by St. <hi>Auguſtine</hi> in 3 Books, <hi>De civitate Dei,</hi> and as I take it the eight Chapter: <hi>In coelo mirabile extitit portentum, nam in ſtella veneris nobi<g ref="char:EOLhyphen"/>liſsima, quam Plautus veſperruginem, Homerus Heſpe<g ref="char:EOLhyphen"/>ron appellat pulcherrimam dicens, Caſtor ſcribit tantum por<g ref="char:EOLhyphen"/>tentum fuiſſe ut mutaret colorem, magnitudinem, figuram, &amp; motum, quod factum ita neque antea, neque poſt fit, hoc fa<g ref="char:EOLhyphen"/>ctum Ogyge rege decebant A<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>raſtus, Cyzicenus, &amp; Dion Neapolites Mathematici nobiles:</hi> In Heaven, ſaith he, appeared a moſt marvellous great wonder, the moſt noted Star called <hi>Venus,</hi> which <hi>Plautus</hi> terms <hi>Veſpurru<g ref="char:EOLhyphen"/>ga,</hi> and <hi>Homer, Heſperus</hi> the fair, as <hi>Caſtor</hi> hath left it upon record, changed both colour, bigneſs, figure, and motion; which accident was never ſeen before nor ſince that time: the renowned Mathematicians, <hi>Adra<g ref="char:EOLhyphen"/>ſtus</hi> and <hi>Dyon,</hi> averring that this fell out during the reign of King <hi>Ogyges,</hi> of which he gives no other ac<g ref="char:EOLhyphen"/>count
+<pb n="20" facs="tcp:101336:12"/>
+then this: This happened, <hi>Quia ille voluit qui ſummo regit imperio ac poteſtate quod condidit;</hi> That the world might acknowledge God its Creator and com<g ref="char:EOLhyphen"/>mander, who can alter or deſtroy the natures, reſtrain or ſuſpend the operation of all things therein at his pleaſure, which keeps men from worſhipping them as Gods, ſince they cannor keep themſelves from al<g ref="char:EOLhyphen"/>teration.</p>
+               <p>But one abſurdity follows not another, ſo faſt as one impertinent argument ingages another. From the alte<g ref="char:EOLhyphen"/>ration of the world, we proceeded to the end of it now approaching: 666. was up, that text, <hi>There ſhall be ſignes in Heaven,</hi> was urged, (not remembring the place where it is written, <hi>An evil and an adulterous ge<g ref="char:EOLhyphen"/>neration ſeeketh a ſign.</hi>)</p>
+               <p>Conſidering to what diſorder theſe looſe imagina<g ref="char:EOLhyphen"/>tions may reduce the more ignorant people, it was not unſeaſonable to inſert a juſt account of the end of the world; which take thus briefly.</p>
+               <p n="1">I. That the world ſhall have an end, is not only an Article of the Chriſtians faith; but the very reſult of the Heathens reaſon: <hi>Qualis eſt futura vita ſapientis, &amp;c.</hi> How ſhall a wiſe man live without friends, if in priſon or baniſhed? Saith <hi>Seneca</hi> in his ninth Epiſtle, <hi>Qualis eſt Jovi cum reſoluto mundo</hi> (is his Anſwer) as <hi>Jupiter</hi> ſhall live when the world ſhall be diſſolved, contenting himſelf within himſelf.</p>
+               <p>
+                  <hi>Quid enim,</hi> ſaith the ſame Author, <hi>mutationis pericu<g ref="char:EOLhyphen"/>lo exceptum? non terra, non coelum, non totus hic rerum con<g ref="char:EOLhyphen"/>textus, quamvis Deo agente ducatur non ſemper tenebit hunc ordinem, ſed illum ex hoc curſu aliquis dies dejiciet: omnia ſternet abducet<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſecum vetuſtas, ſupprimet montes, Maria
+<pb n="21" facs="tcp:101336:12"/>
+ſordebit: unus omnia condet dies.</hi> The curious may ſee <hi>Oecumenius,</hi> in <hi>Collectaneis ſuper</hi> 3. <hi>poſt Pet.</hi> out of <hi>He<g ref="char:EOLhyphen"/>raclitus, Empedocles, Anaxagoras, Democritus,</hi> yea and <hi>Ariſtotle</hi> himſelf, <hi>Lucretius,</hi> and <hi>Lucan,</hi> in their excel<g ref="char:EOLhyphen"/>lent Poems: the firſt, <hi>De rerum Natura</hi> 3. the ſecond, in his <hi>Pharſal. l.</hi> 1. <hi>Sic cum compagi ſolutâ,</hi> &amp;c. See <hi>Eu<g ref="char:EOLhyphen"/>ſeb. Demonstrat. Evang. l.</hi> 3. <hi>Grot. de verit. Relig. l.</hi> 2. <hi>Morney du Pleſſis, ibid.</hi>
+               </p>
+               <p n="2">II. That the World ſhall end by Fire, is as certain among the Gentiles, as among us; as appears from the Stoicks <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: <hi>Seneca's exitus hujus mundi <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gnis, hu<g ref="char:EOLhyphen"/>mor primordium: Panaetius</hi> the <hi>Stoicks</hi> fear, <hi>Nè ad ex<g ref="char:EOLhyphen"/>tremum mundus ignoſceret:</hi> Lucans Rant, <hi>Communis mundo ſupereſt rogas oſtibus aſtra—miſturus</hi>— Ovid's great reach, <hi>Eſſe quoque in fatis reminiſcitur affore tem<g ref="char:EOLhyphen"/>pus quo mare quo tellus correptaque regia coeli ardeat.</hi>
+               </p>
+               <p>The <hi>Sybills, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, &amp;c.</hi> in <hi>Clemens Alexan<g ref="char:EOLhyphen"/>drinus,</hi> and many more in <hi>Ludovicus Vives,</hi> who made this Obſervation, <hi>Exuſtionis ultimae odor quidam etiam ad Gentes manavit. de Fid. l.</hi> 2. <hi>Magnis de exuſtione mun<g ref="char:EOLhyphen"/>di:</hi> and <hi>Eugubin. de Perenni Philoſophia, l.</hi> 10.</p>
+               <p n="3">III. There is this reaſon why the World ſhould burn by Fire, becauſe that as the waters above the Heavens, and thoſe under the Earth; the moiſture that dwell in the Fountains of the deep, and that which was let out of the windows of Heaven, prepa<g ref="char:EOLhyphen"/>red the Univerſe for the firſt Inundation; ſo likewiſe the Fire that dwells (notwithſtanding the Noble <hi>Ty<g ref="char:EOLhyphen"/>choes</hi> Arguments) in the upper Region, and the Starrs, and the Sulphureous matter that is lodged in the Ca<g ref="char:EOLhyphen"/>verns of the Earth, do prepare it for the laſt confla<g ref="char:EOLhyphen"/>gration, when he who dwells in everlaſting burnings,
+<pb n="22" facs="tcp:101336:13"/>
+and is Conſuming Fire, ſhall come out of the Light inviſible, with ten thouſands of his Angels waiting upon him, and a thouſand times ten thouſand going before him: thoſe Angels that are Spirits, and thoſe Miniſters that are a <hi>flaming fire,</hi> caſting a glance and glory over the amazed Univerſe, that ſhall awake thoſe Seeds and Principles of Heat and Fire, that have inſinuated themſelves into this vaſt Frame, to an univerſal combuſtion that ſhall make this all but one great Body, Flame, and Smoak of Fire and Darkneſs as is prepared for the Devil, his Angels, and Ser<g ref="char:EOLhyphen"/>vants.</p>
+               <p n="4">IV. Its confeſſed that the burning of <hi>Veſuvius</hi> and <hi>Aetna,</hi> and the other flames mentioned by Dr: <hi>Moor,</hi> do intimate that laſt Fire; yea and what is more, to ſee an exhalation of 800 miles compaſs (ſuch as ſome ſay this is) ſet on fire by the coeleſtial heat, doth ar<g ref="char:EOLhyphen"/>gue it: for ſure (beſides the divine power our Reli<g ref="char:EOLhyphen"/>gion points us to) its poſſible the Heavens may be placed in ſuch a Poſition and Aſpect as may burn as much more, and ſo till we come to a poſſibility that a fiery Conjunction may burn the Univerſe: yet becauſe this is but wide and conjectural, it ſhould not trouble our heads with fear or diſorder upon any ſtrange appearance, onely it ſhould diſpoſe us to ſome ſerious thoughts of that paſſage 2 <hi>Pet.</hi> 3. that as by the word of God the Heavens were of old, and the Earth ſtanding out of the Water, and in the Water, &amp;c. <hi>Whereby the World that then was, being overflowed with water, periſhed. But the Heavens and the Earth which are now, by the ſame word are kept in ſtore, reſerved unto fire againſt the day of judgement, and perdition of ungodly
+<pb n="23" facs="tcp:101336:13"/>
+men. But (beloved) be not ignorant of this one thing, that one day is with the Lord as a thouſand years, and a thouſand years as one day. The Lord is not ſtack concerning his pro<g ref="char:EOLhyphen"/>miſe, (as ſome men count ſlackneſs) but is long ſuffering to us-ward, not willing that any ſhould periſh, but that all ſhould come to repentance. But the day of the Lord will come as a thief in the night, in the which the Heavens ſhall paſs away with a great noiſe, and the Elements ſhall melt with fervent heat, the earth alſo, and the works that are therein, ſhall be burnt up. Seeing then that all theſe things ſhall be diſſolved, what manner of perſons ought ye to be in all holy converſation and godlineſs, Looking for, and haſting unto the coming of the day of God, wherein the hea<g ref="char:EOLhyphen"/>vens being on fire, ſhall be diſſolved, and the elements ſhall melt with fervent heat. Nevertheleſs, we, acccording to his promiſe, look for new heavens and a new earth, wherein dwelleth righteouſneſs. Wherefore (beloved) ſeeing that ye look for ſuch things, be diligent that ye may be found of him in peace, without ſpot and blameleſs. And account that the long-ſuffering of the Lord is ſalvation, even as our be<g ref="char:EOLhyphen"/>loved brother</hi> Paul <hi>alſo, according to the wiſdom given unto him, hath written unto you. As alſo in all his Epiſtles, ſpeaking in them of theſe things, in which are ſome things hard to be underſtood, which they that are unlearned, and unſtable, wreſt, as they do alſo the other Scriptures, unto their own deſtruction. Ye therefore, beloved, ſeeing ye know theſe things before, beware leſt ye alſo being led away with the errour of the wicked, fall from your own ſtedfaſtneſs. But grow in grace and in the knowledge of our Lord and Saviour Jeſus Chriſt: to him be glory both now and for ever, Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="24" facs="tcp:101336:14"/>
+               <head>Of the Influence between a Planet or Comet and Men.</head>
+               <p>FRom a wild diſcourſe of the end of the world, we are led into an account of the Influence that this Comet may have upon Men; who do as much fear their own end from it, as they did before the World, (as if it were a Torch onely lighted to lead to Fune<g ref="char:EOLhyphen"/>ralls.) Comets have no other Influence then that natural one we ſpake of elſewhere, beſides the vertue of their reſpective Planets; nor the Planets any but in Conjunction with the Elements; nor they, but in their predominancie in every particular man: whence this uſual Table of Operation is made, whence we may gather what we are to look in our particular capacities from this famous Meteor.</p>
+               <p>
+                  <pb n="25" facs="tcp:101336:14"/>
+                  <table>
+                     <head>The ſympathy of the twelve Signes with the four Elements.</head>
+                     <row>
+                        <cell>♈</cell>
+                        <cell>Fiery</cell>
+                        <cell>Hot and dry</cell>
+                        <cell>Cholerick</cell>
+                     </row>
+                     <row>
+                        <cell>♉</cell>
+                        <cell>Earthly</cell>
+                        <cell>Cold and dry</cell>
+                        <cell>Melancholy</cell>
+                     </row>
+                     <row>
+                        <cell>♊</cell>
+                        <cell>Aerial</cell>
+                        <cell>Hot and moiſt</cell>
+                        <cell>Sanguine</cell>
+                     </row>
+                     <row>
+                        <cell>♋</cell>
+                        <cell>Watery</cell>
+                        <cell>Cold and moiſt</cell>
+                        <cell>Phlegmatick</cell>
+                     </row>
+                     <row>
+                        <cell>♌</cell>
+                        <cell>Fiery.</cell>
+                        <cell>Hot and dry</cell>
+                        <cell>Cholerick</cell>
+                     </row>
+                     <row>
+                        <cell>♍</cell>
+                        <cell>Earthly</cell>
+                        <cell>Cold and dry</cell>
+                        <cell>Melancholy</cell>
+                     </row>
+                     <row>
+                        <cell>♎</cell>
+                        <cell>Aerial</cell>
+                        <cell>Hot and moiſt</cell>
+                        <cell>Sanguine</cell>
+                     </row>
+                     <row>
+                        <cell>♏</cell>
+                        <cell>Watery</cell>
+                        <cell>Cold and moiſt</cell>
+                        <cell>Phlegmatick</cell>
+                     </row>
+                     <row>
+                        <cell>♐</cell>
+                        <cell>Fiery</cell>
+                        <cell>Hot and dry</cell>
+                        <cell>Cholerick</cell>
+                     </row>
+                     <row>
+                        <cell>♑</cell>
+                        <cell>Earthly</cell>
+                        <cell>Cold and dry</cell>
+                        <cell>Melancholy</cell>
+                     </row>
+                     <row>
+                        <cell>♒</cell>
+                        <cell>Aerial</cell>
+                        <cell>Hot and moiſt</cell>
+                        <cell>Sanguine</cell>
+                     </row>
+                     <row>
+                        <cell>♓</cell>
+                        <cell>Watery</cell>
+                        <cell>Cold and moiſt</cell>
+                        <cell>Phlegmatick</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>The nature and qualities of the ſeven Planets in union with the four Elements.</head>
+                     <row>
+                        <cell>♄</cell>
+                        <cell>Earthly</cell>
+                        <cell>Cold and dry</cell>
+                        <cell>Melancholy</cell>
+                     </row>
+                     <row>
+                        <cell>♃</cell>
+                        <cell>Airy</cell>
+                        <cell>Hot and moiſt</cell>
+                        <cell>Sanguine</cell>
+                     </row>
+                     <row>
+                        <cell>♂ &amp; ☉</cell>
+                        <cell>Fiery</cell>
+                        <cell>Hot and dry</cell>
+                        <cell>Cholerick</cell>
+                     </row>
+                     <row>
+                        <cell>♀ &amp; <g ref="char:Moon">☽</g>
+                        </cell>
+                        <cell>Watery</cell>
+                        <cell>Cold and moiſt</cell>
+                        <cell>Phlegmatick</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <pb n="26" facs="tcp:101336:15"/>Some influence no man will deny the Stars, and thoſe Exhalations that depend upon them, that conſi<g ref="char:EOLhyphen"/>dereth Sir <hi>Walter Raleigh</hi>'s words: who would ſay that it could not be doubted but the Stars were inſtruments of ſome greater uſe, than to give an obſcure light, and for men to gaze on after the Sun ſet; it being probable that the ſame goodneſs that endued the meaneſt be<g ref="char:EOLhyphen"/>ing with ſome virtue, denyed not a bodies proportio<g ref="char:EOLhyphen"/>nable power to thoſe glorious bodies which are crea<g ref="char:EOLhyphen"/>ted, without queſtion, to the ſame end in heaven, that plants, flowers, &amp;c. are in the earth, not only to adorn, but to ſerve it according to this Stanza.</p>
+               <q>
+                  <l>I'le never believe that the Arch-architect;</l>
+                  <l>With all theſe fires the heavenly arches deck'd</l>
+                  <l>Only for ſhew, and with theſe gliſtering ſhields</l>
+                  <l>To amaze poor ſhepherds watching in the fields.</l>
+                  <l>I'le ne're believe that the light flower that pranks</l>
+                  <l>Our garden borders, or the common banks,</l>
+                  <l>And the leaſt ſtone that in her warming lap</l>
+                  <l>Our kind nurſe Earth doth courteouſly wrap,</l>
+                  <l>Hath ſome peculiar virtue of its own,</l>
+                  <l>And that the glorious Stars of heaven have none;</l>
+                  <l>But ſhine in vain, and have no charge preciſe</l>
+                  <l>But to be walking in heavens galleries;</l>
+                  <l>And through that Palace up and down to clamber,</l>
+                  <l>As golden gulls about a Princes chamber.</l>
+               </q>
+               <p>But if the true and uttermoſt virtues of herbs and plants, which our ſelves ſow, and ſet under our foot, cannot be comprehended by us; (<hi>Hardly do we gueſs a<g ref="char:EOLhyphen"/>right the things that are upon the earth, and with labour do
+<pb n="27" facs="tcp:101336:15"/>
+we find the things that are before us; but the things which are in heaven, who hath ſearched out?</hi> Wiſd. 9.10.) much leſs can reach the fartheſt power of theſe Stars, of whoſe effects upon natural things, skilful Aſtronomers may give a good account: but for the things that reſt in the liberty of mans will, the Stars (ſaith an excel<g ref="char:EOLhyphen"/>lent perſon) have doubtleſs no power over them, except the will be led by the ſenſitive appetite, and that again ſtirred up by the conſtitution and comple<g ref="char:EOLhyphen"/>xion of the body, as too often it is; eſpecially where the humours of the body are ſtrong to aſſault, and the virtues of the mind too weak to reſiſt: Incline a man they may, force him they cannot, reaſon and Religion may ſo alter the inclination: of the firſt whereof <hi>So<g ref="char:EOLhyphen"/>crates</hi> was an eminent inſtance of old, and Cardinal <hi>Pool</hi> was ſuch of late; the firſts nativity being calcu<g ref="char:EOLhyphen"/>lated, the Aſtrologer was laughed at, for ſaying he was deboiſt, and an ill-natured man, till <hi>Socrates</hi> de<g ref="char:EOLhyphen"/>fended him, ſaying, He was ſuch a one before educa<g ref="char:EOLhyphen"/>tion had changed him: the other being certified by an acquaintance, who pretended skill in the <hi>favours</hi> of the Stars, that he ſhould be raiſed and advanced to a great calling in the world; made anſwer, That whatever was portended by the figure of his birth, or natural generation, was cancelled and altered by the grace of his ſecond birth, or regeneration in the blood of his Redeemer.</p>
+               <p>The natural concluſion whereof is that (in <hi>Bucha<g ref="char:EOLhyphen"/>nans</hi> words <hi>De Sphaera</hi>)
+<q>
+                     <l>—Quanquam moles omni ſibi parte coherens,</l>
+                     <l>Una ſit &amp; nexis per mutua vincula membris,</l>
+                     <l>Conſpiret, poſituſque ſemel Rectore ſub uno</l>
+                     <l>Obſervet Leges, <hi>&amp;c.</hi>
+                     </l>
+                  </q>
+                  <pb n="28" facs="tcp:101336:16"/>
+Though there is ſome coherence in the ſeries of things, yet is it not ſo fatal and neceſſary but that Gods power, our education, or grace may change it: and though guilty men fear where there is no fear, and by that fear fall into what they feared, that paſſion betray<g ref="char:EOLhyphen"/>ing the ſuccor of teaſon, yet good men knowing that the Stars are made to ſerve, and not to rule them (men were not made for Stars, but Stars for men) and that their prayers, as did <hi>Eliahs, Hezekiahs,</hi> who were men ſubject to their infirmities, can avail much againſt the heavens, their influence and Stars; ſettle themſelves upon providential Principles againſt all events, chu<g ref="char:EOLhyphen"/>ſing rather a modeſt ignorance, then a curious inqui<g ref="char:EOLhyphen"/>ſition following the pithy counſel of <hi>Phavorinus, (apud A. G. l.</hi> 14. <hi>c.</hi> 1. with which we ſhall conclude:) <q>Ei<g ref="char:EOLhyphen"/>ther they portend thee bad or good luck; if good, and they deceive, thou wilt become miſerable by a vain expectation; if bad, and they lye, thou wilt be miſerable by vain fear; if they foretel true, but unfortunate events, thou wilt be miſerable in mind, before thou art by deſtiny; if they promiſe fortu<g ref="char:EOLhyphen"/>nate ſucceſs, which ſhall indeed come to paſs, theſe two inconveniences will follow thereupon, both ex<g ref="char:EOLhyphen"/>pectation by hope ſhall hold thee in ſuſpence, and hope will devour and deflower the fruit of thy content.</q>
+               </p>
+               <p>
+                  <pb n="29" facs="tcp:101336:16"/>This Diſcourſe raiſed ſuch expectations concern<g ref="char:EOLhyphen"/>ing this ſtrange thing, that we were reſolved to ſit up upon <hi>Sunday</hi> Night, and ſend for the Learned and Ingenious <hi>T. F.</hi> with his Inſtruments; with whom about one of the Clock, after incomperable diſcourſes out of <hi>Tycho Brahe</hi> concerning the Comet of the laſt Age, I went out to your beloved Lodge, which lyeth you know moſt happily for it, whither (as ſoon as we could diſcern the ſo much talked of Star) my Lady and the young Folk being awaked, and invited to the Proſpect; You would not ima<g ref="char:EOLhyphen"/>gine what pretty little Obſervations every body made about the colour and the faſhion of it: But the wonder being a little over, and we at leiſure, and able to make diſtinct and particular reflections, take them as we made them, with their Night and diſorder about them, this being not to expreſs our <hi>Art</hi> but our <hi>Duty.</hi>
+               </p>
+               <p>A Comet we concluded it; and a Comet our In<g ref="char:EOLhyphen"/>genious friend defined to be an exhalation hot and dry, of vaſt quantity, fat, clammy, hard-compact, like a lump of Pitch, which by the heat of the Sun is drawn out of the Earth into the higheſt region of the Air, and there by the exceſſive heat of the place is ſet on fire, appearing like a Star with a blazing flame; carried moſt uſually by the motion of the Air, which is circular, but never goeth down out of ſight, though it be not ſeen in the day time for the light of the Sun, but ſtill burneth, till all the matter be conſumed: And that we might be ſure that the matter of theſe Blazing appearances is great, There was never, he ſaid, and <hi>Wendeline</hi> ſaid ſo before him, a Comet, but at the leaſt it continued
+<pb n="30" facs="tcp:101336:17"/>
+eight dayes, ſome of them continuing 40 dayes, ſome 80, ſome 4 months, ſome 6. It muſt needs ſure be an admirable deal of matter that can give ſo much nouriſhment to ſo great and fervent a Fire, and for ſo long a time: After ſome diſcourſes of <hi>A<g ref="char:EOLhyphen"/>naxagoras</hi> and <hi>Democritus</hi> his Opinion, that a Comet was none other than an heap of maſſy Planets toge<g ref="char:EOLhyphen"/>ther, which modern Philoſophy hath made ſo ri<g ref="char:EOLhyphen"/>diculous, that it is fitter for <hi>Democritus</hi> to laugh at, than diſcourſe; and ſo abſurd, that <hi>Anaxagoras</hi> his Snow is black is more rational, obſerving all the Planets diſtinctly above the Horizon. And yet a Comet ſeen diſtinct from them. Of <hi>Empedocles</hi> his fancy, that they were an heap of vapours gathered together by the <hi>Genii</hi> or Angels of each place, which we thought not fit to diſcourſe, conſidering our vaſt diſtance from the genuine notions of Spirits of the <hi>Pythagoreans</hi> imagination, of which our <hi>Hypocra<g ref="char:EOLhyphen"/>tes</hi> (not the Phyſician) ſeems the Maſter; that a Comet is one of the Planets which diſappears at its nearer diſtance from the Sun, hid in its light, and appears again after ſome time when further off that glorious body, as a new thing, an Imaginati<g ref="char:EOLhyphen"/>on that <hi>Julius Scaliger</hi> thinketh not fit to anſwer any otherwiſe than <hi>Ariſtotle</hi> had done before him, 1. <hi>Meteor.</hi> 6. <hi>viz.</hi> by aſſerting the appearance of of two together in his time, as the <hi>Stagyrite</hi> had done in his, even when all the Planets were ſeen in clear night as clearly as the Sun at Noon day. After, I ſay, theſe extravagant chats, the Gentlewomen fell into a diſcourſe of the colour of it, an argument of a more ſuperficial conſideration, the ſubſtance whereof was to this purpoſe, that Colour being,
+<pb n="31" facs="tcp:101336:17"/>
+as the Philoſopher ſaith, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a reflection of light upon the out<g ref="char:EOLhyphen"/>ſide of an enlightned body or matter, according to the matter, therefore muſt needs be the Colour of any body: and ſo of theſe Comets, if the matter be very thick, they are blew like burned brimſtone; if but meanly thick, they are ruddy as a burning flame; if thin, they are white as the pulifaced Moon, and as the matter is more or leſs ſo diſpoſed, they are yellowiſh, duskiſh, greeniſh, <hi>&amp;c.</hi> al<g ref="char:EOLhyphen"/>though beſides all this, I remember the <hi>Conimbri<g ref="char:EOLhyphen"/>cenſian</hi> Philoſophers, and they no Fools I'le aſſure you, aſſign the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> of the predomi<g ref="char:EOLhyphen"/>nant Stars under which theſe Meteors appear, as the reaſon of the variety of Colours, for they place every Comet under its peculiar Star, (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſaith the natural Philoſopher) this ſeems to be but ſome thin Exhalation, for it looks but poorly up<g ref="char:EOLhyphen"/>on it.</p>
+               <p>From the Colour we paſſed to the Frame and Faſhion of it, and that likewiſe was obſerved to a<g ref="char:EOLhyphen"/>riſe from the Matter of it, for there are three Pro<g ref="char:EOLhyphen"/>portions wherein theſe Meteors appear, with a Beard hanging down, with Beams round about, with a Tayl ſtretched out obliquely in length. The firſt of theſe appears when the Exhalation is thick in the midſt, and in length downwards alſo meanly thick; The ſecond is, when the Exhalation is thick in the midſt, and equally thin round about the edges; (<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, they are our Maſters words) The third, to which it ſeems
+<pb n="32" facs="tcp:101336:18"/>
+he was a ſtranger, as <hi>Seneca</hi> was after him, is like the firſt, ſave that the Exhalation hangeth not down, but lyeth ſide-long, and is uſually of a greater length than the Beard. Upon this occaſion I could not chooſe but recollect how <hi>Pliny,</hi> as I take it, in the 7th. Book of <hi>Natural Queſtions,</hi> and 11, or 12. Chapters, or rather the 2. <hi>Nat. H.</hi> 1, 2. makes ten ſorts of Comets; The firſt two that I have men<g ref="char:EOLhyphen"/>tioned; the third <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or after the ſimilitude of a Dart; The fourth <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or like a Sword; The fifth <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, like a Tub, hollow and dark; The ſixth <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or horny, or rather turning and winding like a Horn; The ſeventh <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, round as a diſh, or like the picture of the Sun, ſcatter<g ref="char:EOLhyphen"/>ing thin &amp; watry Beams from the edges; The eight <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, like a Horſes Mane; The ninth <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſilver-hair'd, becauſe of the light and fulgor of the circum-jacent flame; And the laſt the <hi>Blazing Star</hi> we have now before us; but all theſe may be refer<g ref="char:EOLhyphen"/>red to the number fore-mentioned.</p>
+               <p>After all this you will expect the deſcription of this Comet, which the excellent <hi>T. F.</hi> hath drawn as exactly as I have ſeen, his Pencil being nothing below his Pen; it ſeems the exhalation is ſomewhat thick a top which makes it look like a Star, and of all the Stars likeſt <hi>Jupiter</hi> of any Star, as I could imagine; though our friend would needs conteſt it was like <hi>Mars,</hi> and really it was like to have its influence upon us, for it was almoſt a quar<g ref="char:EOLhyphen"/>rel, and effectually a wager between us about the fi<g ref="char:EOLhyphen"/>gure; But whatever that Star-like appearance is, its tayl, or the long vapour that ſtretcheth from it,
+<pb n="33" facs="tcp:101336:18"/>
+is ſome 6 yards and a half in length, and 3 in bredth, pointing obliquely Weſtward, very ſharp towards the bottom, although its poſſible it ſhould alter its proportion as it ſpends its matter, which I ſup<g ref="char:EOLhyphen"/>poſe was almoſt half ſpent when we obſerved it.</p>
+               <p>But we were not puzzled ſo much in the figure as in the ſcituation of it; for our Aſſiſtant with his Mathematical inſtrument would needs demonſtrate from the Parallax, or equal diſtance that it was in the Heaven among the Planets, and as that Comet or Star, one thouſand five hundred ſeventy two was ſeen for 16 whole months together in <hi>Caſiopaea,</hi> mo<g ref="char:EOLhyphen"/>ving with equal motion, and looking with an inva<g ref="char:EOLhyphen"/>riable poſition, that is to ſay kept an equal diſtance with the fixed Stars: and the other one thouſand five hundred ſeventy ſeven obſerved in <hi>Sagittary;</hi> ſo this was in <hi>Taurus,</hi> in an equal line with the Eagles-heart, not far from, or rather in a conſtellation called the <hi>Ship,</hi> and in the hinder Maſt (Pardon the inaccurate expreſſions of a perſon that never ſaw the Sea) of that Ship: his demonſtration was ocular, and ſo not eaſily confuted: But I who have a great kindneſs for my old Maſter <hi>Ariſtotle,</hi> put him off at preſent with the difference that was between <hi>Tud<g ref="char:EOLhyphen"/>daeus</hi> and <hi>Cornelius Gemma</hi> about the Comet 1577. the firſt affirming it in <hi>Sagittarius,</hi> the ſecond aſſerting it in <hi>Mercury,</hi> and others from their different argu<g ref="char:EOLhyphen"/>ments concluding it in neither: And withall how eaſily we are deceived in the nearneſs of the Moon and Stars, and therefore how eaſily we may be ſo in the diſtance of theſe Comets; we think the Moon
+<pb n="34" facs="tcp:101336:19"/>
+toucheth ſome high Mountains, and we think thoſe Mountains touch the Moon, when alas our ſight only deceiveth us in the lowneſs of the one, and the height of the other; and how eaſily we are decei<g ref="char:EOLhyphen"/>ved, when the Medium is ſo unconſtant as the Air is, when the diſtance is ſo great as from us to the up<g ref="char:EOLhyphen"/>per Region; and when the motion is ſo irregular, as muſt needs be the motion of a vapour that is car<g ref="char:EOLhyphen"/>ried about with ſome wandring Planet, a Novice can tell you out of his <hi>Magirus.</hi> Thus I talk'd, And becauſe I might not ſeem of their humour, that o<g ref="char:EOLhyphen"/>verthrow all, and build nothing; I would needs rub up my old Philoſophy, and ſay, That Comets were either immovable, or movable; Thoſe that are immovable are ſuch thick exhalations as are drawn no farther than the lower part of the upper Region of the Air, and there will not ſtir, being too big for the virtue or force of the Planets under which they lie.</p>
+               <p>Thoſe that are moveable, as moſt are, and this particularly, are thinner matter drawn up to the up<g ref="char:EOLhyphen"/>per end of the upper Region of the Air, moving ei<g ref="char:EOLhyphen"/>ther with the Air conſtantly and directly, or with its own matter unconſtantly, ſometimes here, ſome<g ref="char:EOLhyphen"/>times there, or elſe as this ſeems to doe, by the im<g ref="char:EOLhyphen"/>pulſe and influence of the Planet that is predomi<g ref="char:EOLhyphen"/>nant above it, for ſo <hi>Scaliger</hi> ſaith in his 77 <hi>Exercit. Etenim quum materiam informam fidus ab ima noſtra at<g ref="char:EOLhyphen"/>traxerit regione, quare nunc abs ſe compactam formatam, Libratam, ſibi propriorem non ſecum evehat? ſuſtinet igitur eam stella ut ita dicam parens ejus, quaſi cum a ſo<g ref="char:EOLhyphen"/>le nubis ſuppenduntur. Quid mirum ſi ſecum trahat? ea<g ref="char:EOLhyphen"/>dem
+<pb n="35" facs="tcp:101336:19"/>
+namque poteſtati quiſpiam &amp; attrahi &amp; retineri alibi diſputatum est.</hi> That is in brief, The Stars and Sun raiſe theſe exhalations, and they keep them up, and guide them, only I muſt adde, that as Fire follow<g ref="char:EOLhyphen"/>eth the matter that feeds it; ſo likewiſe this Flame doth its fuel ſometimes, from the North to the Weſt, ſometimes from the North to the Eaſt, ſometimes quicker, ſometimes ſlower; for it moves ſo ſwift ſometimes, that as it is ſeen late at Night, ſo it is ſeen early in the Morning, as if with <hi>Venus</hi> it out-ran the Sun; whence ſome have miſtaken the ſame Comet to be two.</p>
+               <p>At this rate of Pedantry I went on, but the miſ<g ref="char:EOLhyphen"/>chief of it was, I could not give a reaſon for it pre<g ref="char:EOLhyphen"/>ſently, until we came to conſider how long it was likely to continue, or to be ſeen, and my Gentle<g ref="char:EOLhyphen"/>man, before he was aware, ſaid it might be ſeen for a fortnight, which words I laid hold of, and urged him to make it out; and though he uſed many ways, none would do but this, <hi>viz.</hi> That it hath been ob<g ref="char:EOLhyphen"/>ſerved to decreaſe ſo much ſince the firſt notice ta<g ref="char:EOLhyphen"/>ken of it, that if it would fall away proportionably ſo much every night, it could be ſeen but ſixteen nights at fartheſt; whence I concluded my Maſters old diſcourſe, that the Exhalation that makes a Comet, is never ſo thin, but it may laſt ſeven dayes. <hi>Breviſsimum</hi> (ſaith <hi>Pliny) quo cernerentur, ſpatium ſeptem dierum annotatum eſt:</hi> The ſhorteſt ſpace of their appearance is ſeven dayes, but may be ſo thick, compacted, and copious, that it may laſt ſeven months. (<hi>Longiſsimum octoginta dies,</hi> that miſtake of <hi>Pliny, Cardan</hi> hath corrected, in his
+<pb facs="tcp:101336:20"/>
+                  <hi>Comment. Quadupert. Ptol. l.</hi> 2. <hi>c.</hi> 9.) Whence it follows, that the celebrated flame in <hi>Taurus,</hi> is nothing but a little Exhalation, gathered ſome 800. miles round, by the Catholique or Univerſal Virtue of ſome Flames, which have drawn it up, and will keep it there as long as it laſts, which will not be half ſo long as the Sword-Comet, that hung (as <hi>Joſephus</hi> reports it) over <hi>Jeruſalem,</hi> a whole Year before the <hi>Panolethria,</hi> or utter deſtruction of the <hi>Jewes,</hi> Beſides, I remember the account that <hi>Gaſſendus</hi> had given of the Comet that appeared from the end of <hi>November,</hi> to the middle of <hi>Janu<g ref="char:EOLhyphen"/>ary,</hi> which makes good my Suppoſition, and take it thus in his own words.</p>
+               <p>
+                  <q>About the end of this Year, meaning 1618. there appeared a famous Comet, to the obſerva<g ref="char:EOLhyphen"/>tion whereof, he, meaning <hi>Perreskin,</hi> exhorted all the learned men he was acquainted with, him<g ref="char:EOLhyphen"/>ſelf being deſtitute of fitting Inſtruments, and not daring to truſt himſelf in the Air, becauſe of his ſicklineſs, made no other obſervation, ſave that by the Perſpective Glaſs, he diſcerned the form of its Head, and how it differed from the Tayl, which he compared to the Sun beams ſhining through a Window. But he was glad, when he heard afterwards, that ſuch as dwell not in <hi>Aix,</hi> might a little after diligently obſerve all things thereunto pertaining. And that I may relate ſomewhat thereof, for the ſake of thoſe that de<g ref="char:EOLhyphen"/>ſire to know ſuch things: The Comet appeard from the end of <hi>November,</hi> to the middle of <hi>January;</hi> and becauſe it roſe in the morning, therefore the
+<pb n="37" facs="tcp:101336:20"/>
+Tayl thereof was ſeen turning upward ſome dayes before the Head appeared. The Head was a Star, ſomewhat pale, as big as the fixed Stars of the firſt magnitude (but twinckled not as they do) round on that ſide which was towards the Sun, and criſped on the other end. The Tayl or Hair was a thinner radiation, and more white, as long at firſt as an eighth part of the Heaven, and broad at the end (which did for the firſt day turn a little towards the South) as much as came to a ſixth part of its length. The firſt appearance of its Head was there where <hi>Scorpio</hi> contracts its claws: Its diſ-appearance or ending was where the <hi>Dragon</hi> parting the <hi>Baars,</hi> doth unfold the end of its tayl; For beſides the daily motion where<g ref="char:EOLhyphen"/>by this Comet did riſe and ſet, as the other Stars, it went by its own proper motion from South to North: But ſo as if it had begun at the middle of <hi>Scorpio,</hi> and had there cut the <hi>Ecliptick,</hi> inclining to the Weſt near 63. Degrees. And whereas at firſt this motion was every day two Degrees, and an eighth part, it became about the <hi>Nones</hi> of <hi>December</hi> ſwifter by an whole Degree: and after<g ref="char:EOLhyphen"/>wards (which makes for my purpoſe, and proves it but an Exhalation) it did ſo decreaſe, that at length it languiſhed: and alſo its Tayl, which at the beginning was ſo long, became by little and little ſo ſhortned, that at laſt it vaniſhed, and became undiſtinguiſhable from the Head: Inſo<g ref="char:EOLhyphen"/>much that <hi>Kepler</hi> and he, who were loath to con<g ref="char:EOLhyphen"/>feſs it an Earthly Exhalation, yet muſt needs ſay what is as bad, that it was a Concretion of the li<g ref="char:EOLhyphen"/>quid Heavens.</q>
+               </p>
+               <p>
+                  <pb n="38" facs="tcp:101336:21"/>Touching the direction of the Tail of the Comet towards the quarter which was oppoſite to the Sun, I need ſay nothing, ſaith the Learned <hi>Gaſſendus,</hi> e<g ref="char:EOLhyphen"/>ſpecially ſeeing it belongs not to this place to ſhew the reaſon why it kept not a direct oppoſition, but turned ſometimes to the right hand, and ſometimes to the left, by an unequal kind of deflection.</p>
+               <p>
+                  <note place="margin">☞</note>Nor need I ſpeak of what it preſaged, ſeeing it is not the leaſt argument of humane weakneſs to be afraid of thoſe things which have nothing to doe with this world wherein we live. At leaſt it is a wonder, as that learned man goeth on, that Men will not believe God himſelf, who commands that we ſhould not be afraid of the ſigns of Heaven: for as much as he makes not ſigns of thoſe things, as being unexpounded, can give no warning; and un<g ref="char:EOLhyphen"/>leſs God makes a Comet to be the ſign of Calami<g ref="char:EOLhyphen"/>ties enſuing, how can the Comet either have knowledge of future things, or a deſire to diſcover them? Doth not the Comet take its own courſe, as all other natural, being little concerned what a ſtirr the Nations of Mankind make one with ano<g ref="char:EOLhyphen"/>ther? But this Comet was ſaid to foreſhew the Wars and Slaughters which followed: as if before there had been no Wars, <hi>Peſtilence,</hi> nor dearh of Kings! As if no Tragedies were now in action twenty years ſince! They referr all to the Comet, and by the ſame reaſon, they may referr all the Troubles that ſhall ariſe hereafter, till a new Co<g ref="char:EOLhyphen"/>met appear, and make the former forgotten, though it ſhould not appear till an hundred years hence.</p>
+               <p>
+                  <pb n="39" facs="tcp:101336:21"/>Thus farr <hi>Gaſsendus</hi> moſt pertinently, as well to the Occaſion, as to this Diſcourſe it ſelf. But this was a high Point, and therefore I ſuddenly ſlipped out of it, to a controverſie about the times of its ap<g ref="char:EOLhyphen"/>pearance, of which it was ſaid, that as in the Spring there is too much moiſture, and too little heat, to gather a Comet; in Summer there is too much heat, which will diſperſe and conſume the matter, that it cannot be joyned together: (which is the reaſon, why no Comets can be ſeen on the other ſide of the <hi>Tropicks,</hi> or within the <hi>Zodiack,</hi> where the extreme heat diſſolves the matter that ſhould compoſe them) So this ſeaſon is clean con<g ref="char:EOLhyphen"/>trary to the nature of a Comet, which is hot and dry, Winter being cold and moiſt. But be it remem<g ref="char:EOLhyphen"/>bered what a moderate Winter this is, and how extraordinary hot the laſt Summer and Autumn hath been in <hi>France,</hi> where they were afraid of their Vintage; and in <hi>Spain,</hi> where they are in dan<g ref="char:EOLhyphen"/>ger of Famine, by reaſon of the extraordinary Drought; and it will be confeſſed a greater won<g ref="char:EOLhyphen"/>der to the Learned, that there had been no Comet this year, at this time, than it is to the ignorant that there is one.</p>
+               <p>You will wonder all this while, that we diſcourſ<g ref="char:EOLhyphen"/>ed not of the effects and influence of this ſtrange ex<g ref="char:EOLhyphen"/>halation, you muſt know that was the thing in e<g ref="char:EOLhyphen"/>very bodies mouth: But I avoided the reſolution of that point as long as I durſt either ſafely or civilly, until at laſt being overpreſt by the ingenuous Mrs. <hi>T.</hi> (whoſe knowledge is above moſt Womens, and curioſity above moſt Mens, who owns a Maſculine
+<pb n="40" facs="tcp:101336:22"/>
+Spirit, and is the great argument. I uſe to prove there is no ſexe in the Soul.) I began my Lecture very gravely, That the effects of theſe Comets, 1. ſuch as they had by their own influence, and 2. ſuch as they had by the influence of the Planets, they lie under. A Comet by its own operation and nature betokeneth three things, 1. Drought, 2. Barrenneſs, 3. Peſtilence. 1. Drought, becauſe ſuch an exhalation as a Comet, cannot be generated without great heat, and much moyſture is conſu<g ref="char:EOLhyphen"/>med in the burning of it. 2. Barrenneſs, becauſe the fatneſs of the Earth is drawn up, whereof the Comet conſiſteth. 3. Peſtilence, for ſo much as that kind of exhalation which maketh a Comet, corrupteth the Air, which infecteth the bodies of Men and Beaſts: To which I may add Tempeſts, Inundations, which the diſperſion of theſe vapours round this wide world is ſo apt to produce, that <hi>Manilius</hi> had good reaſon for his Verſe, <hi>Nunquam futilibus excanduit ignibus aether: Claudian</hi> for his, <hi>In Coelo nunquam ſpectatum impune Cometam,</hi> and <hi>Ca<g ref="char:EOLhyphen"/>merarius</hi> for his <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Non ſit Cometa, quin malum ſecum adferat:</hi> Which are all true in reſpect of the natural effects theſe Comets have upon the inanimate part of the World: Though,</p>
+               <p n="2">2. Thoſe political effects that are aſcribed them by thoſe that would amuſe and deceive the World, I find in reaſon no ground and nature, no cohaerence, for ſince if the dependence of mens bo<g ref="char:EOLhyphen"/>dies, whether in publick or private capacities, up<g ref="char:EOLhyphen"/>on the Elements, ſhould be certain, which yet is
+<pb n="41" facs="tcp:101336:22"/>
+variable, and the dependence of the Elements up<g ref="char:EOLhyphen"/>on the Configurations of the Heavens ſhould be conſtant, which yet is alterable, yet that of mens Souls upon their Bodies is ſo mutable by Grace, exalting them, as in Chriſt: by Education, alter<g ref="char:EOLhyphen"/>ing them, as in <hi>Socrates;</hi> by occaſions by aſſing them, as in common Experience, that there can be no more ſaid of alterations in <hi>France,</hi> or <hi>Great Britain,</hi> where this Comet is ſeen, than this.</p>
+               <p>All this time this Comet doth appear,<note place="margin">The Ef<g ref="char:EOLhyphen"/>fects of this Co<g ref="char:EOLhyphen"/>met,</note> no doubt but there are many dry and hot Exhalations in the Air, which in dry men kindle heat, whereby they are provoked to anger: Of anger cometh brawling; of brawling, fighting and warr; of warr, victory; of victory, alteration in Common<g ref="char:EOLhyphen"/>wealths: and now alſo the Air may be more infe<g ref="char:EOLhyphen"/>ctious, and Princes living, as they have reaſon, more delicately than other men, may be more ſubject to infection than other men, and ſo it may be dye too; upon which account we may reaſon form this Accident all the Contingents of our Age.</p>
+               <p>But then for thoſe direful effects this Comet may pretend to, from the preſent ſtate of Heaven, and the Configuration of the Planets: Firſt, All our Aſtrologers confeſs the aſpect of Heaven at this time moſt propitious to us, <hi>Mars</hi> Culminant be<g ref="char:EOLhyphen"/>ſpeaking our Undertakings, in all humane proba<g ref="char:EOLhyphen"/>bility, happy; <hi>Mercury</hi> our Counſells proſperous; <hi>Saturn</hi> and <hi>Jupiter</hi> our Trade improved; yea, and <hi>Taurus,</hi> to which moſt of this Nation belongeth,
+<pb n="42" facs="tcp:101336:23"/>
+(as <hi>Albumazar, R. Bacon, Alchandus, Ptolomy</hi>) the Sign wherein this Comet appears, is the very ſame Sign wherein the Comet 1652. was ſeen, which began about the 7th. of <hi>December,</hi> as is by ſome believed, about the 14th, or 15th. Degree of <hi>Gemini,</hi> but in its retrogade motion entred <hi>Taurus,</hi> 20th. 21ſt. 22d. 23d. of <hi>December,</hi> which was at the ſame time with the laſt <hi>Dutch</hi> War; a War, that notwithſtanding it was managed by a Faction in this Nation, ended ſo much to the glory of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and the ſhame of <hi>Holland,</hi> that it was thought this Generation ſhould hear no more of ſuch a thing, as a Couteſt with the King of <hi>England,</hi> by the di<g ref="char:EOLhyphen"/>ſtreſſed States. Beſides, the Poſition of the Hea<g ref="char:EOLhyphen"/>vens are preſumed as happy as we could wiſh them, the Royal Sign <hi>Leo</hi> aſcending on the Eaſtern Finitor, and the excellent Star, the Lion's Heart ariſing therewith, in the very oppoſite degree of the aſcen<g ref="char:EOLhyphen"/>dent, in the Figure of the beginning of our late Troubles, the Moon aſcendent in conjunction of the good Star <hi>Jupiter,</hi> between the Sextile of <hi>Saturn</hi> and <hi>Venus,</hi> and applying its ſelf to a Sextile of <hi>Mars,</hi> who is ſeated in a Houſe of Friendſhip, and in a place of kindly aſpect.</p>
+               <p>
+                  <hi>At ſi quando aſcendens fuerit ſignum fixum, &amp; Luna in bono loco Figurae Dominum longo tempore durabit, maxime ſi fuerit in Leone, vel in ejus triplicitate:</hi> If the Horoſcope ſhall be fixed, and the Moon in a good place of the Figure <hi>(i. e.)</hi> Fortunate in an Angle, or a ſuccedent Houſe, it portends that a Kingdom or Dominion ſhall remain a long time; chiefly, if <hi>Leo</hi> ſhall aſcend, (which in this Figure
+<pb n="43" facs="tcp:101336:23"/>
+it doth) or a ſign of the ſame Triplicity. <hi>Haly de jud. Astr. fol.</hi> 334. He goeth on — <hi>Etiam ſi fuerit in Aſcendente fortuna, ſignificat bonitatem illius Regis, &amp; bonos mores, &amp; bona facta,</hi> Haly ut ſupra. And if (ſaith he) a fortunate Star ſhall be in the Aſcen<g ref="char:EOLhyphen"/>dent, it ſignifies Goodneſs, Clemency, Worth and Juſtice of the King ſo proclamed, and inti<g ref="char:EOLhyphen"/>mates him alſo to be active, and freely forward in good things. I ſhall ſpare to Comment upon theſe moſt full Texts, becauſe I would not be eſteemed a Flatterer.</p>
+               <p>— <hi>Pone Aſcendens Leonem, ſitque Sol tunc in Tauro in decima ab Aſcendente, ſit etiam Luna in primo juncta Veneri aut Jovi,</hi> &amp;c. ſaith <hi>Guido Bonatus, pars</hi> 3. <hi>fol.</hi> 480. When you would proclame a (Warr ſaith he) place <hi>Loo</hi> upon the Aſcendent, and let the Sun be in <hi>Taurus,</hi> in the tenth from the Aſcendent, and poſite the Moon in the firſt houſe, joyned either to <hi>Jupiter</hi> or <hi>Venus,</hi> &amp;c.</p>
+               <p>Hear <hi>Haly</hi> yet again, — <hi>Si</hi> Jupiter <hi>fuerit in Aſ<g ref="char:EOLhyphen"/>cendente,</hi> &amp;c. When <hi>Jupiter</hi> is poſited in the Aſ<g ref="char:EOLhyphen"/>cendent of ſuch a Figure, (here he is ſo, and is in Conjunction of <hi>Luna</hi> alſo) he portends the King or Prince, in action, to be juſt, prudent, and de<g ref="char:EOLhyphen"/>ſirous of the good of his Subjects. And that as he is honoured with Victory, ſo will he be a great Cheriſher and Preſerver of the Laws, and a Lo<g ref="char:EOLhyphen"/>ver of all Acts of Clemency and Juſtice.</p>
+               <p>The Sun (ſaith the Learned <hi>Cardan</hi>) hath ſigni<g ref="char:EOLhyphen"/>fication of Kings, and the Moon of Subjects. The Sun, the grand Significator of Soveraignty, Rule and Dignity, is nobly fixed in the Angle of Digni<g ref="char:EOLhyphen"/>ty,
+<pb n="44" facs="tcp:101336:24"/>
+in the Houſe of the benevolent Planet <hi>Venus,</hi> and Exaltation of the Moon, whence it is apparent, that this great Converſion and Change, will not only be for his Majeſties Happy and Peaceable Reign, but the Peoples Joy and Delight.</p>
+               <p>That the Government thus founded ſhall remain fixed and immovable, is ſeen by the fixation of the Angles, the prime points of the Figure; but chief<g ref="char:EOLhyphen"/>ly of the fixed poſition of the Sun. — <hi>Si ☉ fuerit in fixis, ſignificat durabilitatem &amp; firmitatem longum tempus. (i. e.)</hi> If the Sun ſhall be poſited in a fix<g ref="char:EOLhyphen"/>ed Sign, he portends the Government and Honour thereof to continue firm and durable a long time. But beſides his being located in a fixed Sign, and the chief Angle of Heaven, he is in partile Sextile of <hi>Mars,</hi> the Patron of Victory and Conqueſt, who is poſited in the eleventh Houſe; which is an emi<g ref="char:EOLhyphen"/>nent Argument, and moſt clear Teſtimony, That his Majeſty cannot want aſſiſtance and ſupport (ſhould he (which I dare be confident he never will) ſtand in need) even from the very beſt of men: <hi>(i. e.)</hi> from thoſe that are moſt active, powerfull, and skilful in Arms. Nor ſhould he be any man<g ref="char:EOLhyphen"/>ner of way leſs reſpected from thoſe of the meaner Rank, Quality, and Degree: Is not <hi>Luua</hi> in Sex<g ref="char:EOLhyphen"/>tile of <hi>Venus,</hi> who is Lady or Governeſs of the <hi>Me<g ref="char:EOLhyphen"/>dium Coeli?</hi> Is not <hi>Mercury</hi> Lord of the eleventh and ſecond Houſes, in <hi>Gemini</hi> in the tenth, and he ſim<g ref="char:EOLhyphen"/>ply moſt ſtrong in the Figure? I know ſome may be apt to urge a backſliding in Friends from <hi>Mercu<g ref="char:EOLhyphen"/>ries</hi> retrogradation, and the Poſition of <hi>Mars</hi> in the eleventh Houſe; but let ſuch know that this Retro<g ref="char:EOLhyphen"/>gradation
+<pb n="45" facs="tcp:101336:24"/>
+of a Planet is no Eſſential, but Acciden<g ref="char:EOLhyphen"/>tal Debility. Nor is the Poſition of <hi>Mars</hi> in the e<g ref="char:EOLhyphen"/>leventh Houſe the <hi>prodromus</hi> of any danger, he be<g ref="char:EOLhyphen"/>ing in the Sextile of the Sun. Beſides, were it not that there was that happy Radiation between the Sun and <hi>Mars;</hi> yet the injury his ſingle poſition portends, is alleviated by the benign preſence of <hi>Venus</hi> in the ſame houſe, ſhe being in perfect Ami<g ref="char:EOLhyphen"/>ty with the Moon: for it is a known Rule among Aſtrologers, <hi>Quicquid ligat Mars, ſolvit Venus:</hi> Whatſoever <hi>Mars</hi> by his ill influence, harms; <hi>Ve<g ref="char:EOLhyphen"/>nus</hi> by her benevolent Rays, helps. Therefore nei<g ref="char:EOLhyphen"/>ther <hi>Mars</hi> his Poſition in the Angle of Friendſhip, or <hi>Mercury</hi>'s Retrogradation, can have any evil ſig<g ref="char:EOLhyphen"/>nification that is not otherwiſe over-balanced.</p>
+               <p>
+                  <hi>Aſp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce ad partem Fortunae, &amp; ad partem Nobilitatis, quae accipitur in die a gradu Solis in gradum ipſius Exal<g ref="char:EOLhyphen"/>tationis — &amp; projicitur ab Aſcendente. Aſpice etiam portem Regni &amp; victoriae, quae accipitur in die &amp; nocte a gradu</hi> Solis, <hi>in gradum</hi> Lunae, <hi>&amp; projicitur a gra<g ref="char:EOLhyphen"/>du Medii Coeli. (Id eſt)</hi> In the Figure of the pro<g ref="char:EOLhyphen"/>claming of a King, you ſhould have regard to the Part of Fortune, and to the part of Nobility, which by day is gained by ſubſtracting the Degree of the Suns place, from the Degree of his Exaltation, and projecting it from the Aſcendent. Behold alſo the part of the Kingdom, and of Victory, which born day and night you muſt take from the Degree of the Sun, to the Degree of the Moon, and then project it from the Degree of the Mid-heaven. Then for the uſe of thoſe Parts, examining the ſame learned Author, he tells us — <hi>Si quando hae partes
+<pb n="46" facs="tcp:101336:25"/>
+venerit in bonis locis &amp; fortunatis, &amp; cum Fortunis, ſig<g ref="char:EOLhyphen"/>nificat magnam nobilitatem &amp; honorem illi domino,</hi> &amp;c. <hi>(i. e.)</hi> If when any or all of theſe Parts happen to be placed fortunately in the Figure, and with the Fortunes alſo, they portend great Nobility and Honour to that Prince then proclamed, <hi>&amp;c.</hi> — — Here you ſee theſe ſeveral Princely parts are po<g ref="char:EOLhyphen"/>ſited in the chief places of the Figure, and the part of Nobility near the body of <hi>Venus:</hi> beſides, they are all near eminent fixed Stars, <hi>viz.</hi> the part of Fortune near <hi>Cor Scorpii,</hi> in the fourth houſe; and the part of Victory, <hi>&amp;c.</hi> near <hi>Cor Leonis,</hi> in the Aſ<g ref="char:EOLhyphen"/>cendent or firſt houſe; and the part of Nobility in <hi>Cancer,</hi> nearly in Conjunction of <hi>Ras-Algenſe,</hi> a ſplendid, ſhining, fixed Star in the eleventh houſe: therefore I pronounce the Aphoriſm to take full ef<g ref="char:EOLhyphen"/>fect. It is no mean Argument of laſting honour and happineſs, in which the fixed ſtars are ſo emi<g ref="char:EOLhyphen"/>nently concerned: For, according to <hi>Ptolomy, Stellae fixae mirabiles &amp; ultra rationem foelicitates tribuunt, &amp;c.</hi> The fixed Stars do deſign moſt admirable Felicity and honour, <hi>&amp;c. Ptol. Cent. Aphoriſ.</hi> 29.</p>
+               <p>To theſe particular Obſervations I may add this general one: The former part of <hi>Taurus,</hi> wherein this Comet is thought to be, from the ſeventeenth Degree, to the twenty ſeventh of ♉ the Stars are ſomething turbulent, cloudy, but inauſpicious to them who are troubleſome, by reaſon of the <hi>Pleiades</hi> contained within thoſe Degrees, and are
+<pb n="47" facs="tcp:101336:25"/>
+of the nature of ♂ and <g ref="char:Moon">☽</g>. the middle parts of ♉ from the twenty ſeventh Degree; to the firſt of ♊ are temporarely hot, and ſomewhat moiſt, by reaſon of ſome <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>steriſhes</hi> in <hi>Perſeus,</hi> of the nature of ♄ and ♃ from the beginning of ♊ to the <hi>Hyades,</hi> and the Horn of <hi>Taurus:</hi> and by the approach of <hi>Orion,</hi> cauſeth Thunder and Lightning: the North part made temperate by <hi>Perſeus,</hi> the South variable, and uncertain, by reaſon of ſome Stars participa<g ref="char:EOLhyphen"/>ting of ♂ commixed, and others of the nature of ♄ and <g ref="char:Moon">☽</g>.</p>
+            </div>
+            <div type="to_the_reader">
+               <p>Thus much, Good Sir, is the ſubſtance of our apprehenſion of this Comet, in its <hi>Nature, Situa<g ref="char:EOLhyphen"/>tion,</hi> and <hi>Influence,</hi> which its high time to put an end to; ſince its almoſt three a Clock in the morn<g ref="char:EOLhyphen"/>ing, and I am juſt called up to ſee it again; only I muſt intreat your Worſhips pardon, for the mi<g ref="char:EOLhyphen"/>ſtakes in this haſty Impertinence, which I dare not correct, ſince it is already ſo blotted, that you can hardly read it. God bleſs you and yours, and be ſure our fortune, under God, is in our own hands, ſince Virtue and Vice, our Duties and our Sins, are the only Configurations that portend Woe or Weal to the VVorld. God bleſs his Ma<g ref="char:EOLhyphen"/>jeſty, whoſe care and prudence, with his Peoples love and prayers, have ſet him above Meteors, yea
+<pb n="48" facs="tcp:101336:26"/>
+and Stars themſelves, to fear nothing but the Star <hi>Wormwood,</hi> I mean that Bitterneſs, and thoſe Mur<g ref="char:EOLhyphen"/>murings, that may forfeit the greateſt Bleſſings of Mankind.</p>
+               <closer>
+                  <dateline>
+                     <hi>From</hi> Andover,
+<date>
+                        <hi>this</hi> 12th. <hi>I think I may ſay</hi> 13th. <hi>of</hi> December 1664./5.</date>
+                  </dateline>
+                  <signed>Your Worſhips, Moſt humble, and moſt obedient Servant.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:101336:26"/>
+            <head>AN Advertiſement OF BOOKS Lately Printed.</head>
+            <p>ACtions upon the Caſe for Deeds, by <hi>William Shepheard</hi> 
+               <abbr>Eſq</abbr> in <hi>Folio.</hi>
+            </p>
+            <p>
+               <hi>PHARAMOND,</hi> or the Hiſtory of <hi>France,</hi> a New Romance, by the Author of <hi>Caſſandra</hi> and <hi>Cleopatra,</hi> in <hi>Folio.</hi>
+            </p>
+            <p>A Diſcourſe concerning the Precedency of Kings, with a Treatiſe of Ambaſſadours, by <hi>James Howell</hi> 
+               <abbr>Eſq</abbr> in <hi>Folio.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:101336:27"/>The Stateſmen and Favourites of <hi>England,</hi> ſince the Reformation; their Prudence and Policies, Suc<g ref="char:EOLhyphen"/>ceſſes and Miſcarriages, Advancements and Falls, by <hi>D. Lloyd,</hi> in <hi>Octavo.</hi>
+            </p>
+            <p>The <hi>Golden-Coast,</hi> or a Deſcription of <hi>Guinney,</hi> in <hi>Quarto.</hi>
+            </p>
+            <p>A Deſcription of <hi>Tangier,</hi> with the adjacent Peo<g ref="char:EOLhyphen"/>ple and Country; with an Account of the Perſon and Government of <hi>Gayland,</hi> Uſurper of the Kingdom of <hi>Fez,</hi> in <hi>Quarto.</hi>
+            </p>
+            <p>The Conduct and Character of Count <hi>Nicholas Serini,</hi> lately Deceaſed, <hi>Twelves.</hi>
+            </p>
+            <p>The <hi>Villain,</hi> a Tragedy, by <hi>Tho. Porter</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Quarto.</hi>
+            </p>
+            <p>The <hi>Ungrateful Favourite,</hi> a Tragedy, by a Perſon of Honour, <hi>Quarto.</hi>
+            </p>
+            <p>
+               <hi>Sold by</hi> Samuel Speed, <hi>at the</hi> Rain-bow, <hi>near the</hi> Inner-Temple Gate, <hi>in</hi> Fleet-ſtreet, 1665.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101336:27"/>
+         </div>
+      </back>
+   </text>
+</TEI>
